@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_dipper.mk
+    $(LOCAL_DIR)/xdroid_dipper.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_dipper-user \
-    lineage_dipper-userdebug \
-    lineage_dipper-eng
+    xdroid_dipper-user \
+    xdroid_dipper-userdebug \
+    xdroid_dipper-eng
